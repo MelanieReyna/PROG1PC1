@@ -1,0 +1,11 @@
+# PROG1PC1
+PC1
+El SCV es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo,
+de modo que puedas recuperar versiones especificas mas adelante.
+La comunidad de desarrollo de Linux desarrollo su propoia herramienta
+Objetivos:
+- Velocidad
+- Diseño sencillo
+- Gran soporte para desarrollo no lineal
+- Completamente distribuido
+- Capaz de manejar proyetos
