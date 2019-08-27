@@ -1,0 +1,3 @@
+# PROG1PC1
+PC1
+La multiplexacion de HTTP2 , permite enviar y recibir varias peticiones del navegador al mismo tiempo.
